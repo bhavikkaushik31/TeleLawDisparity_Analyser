@@ -1,4 +1,4 @@
-# TeleLaw Disparity Analyzer
+# Tele-Law Disparity Analyzer
 
 ## 📌 Project Overview
 The **TeleLaw Disparity Analyzer** is a data-driven project aimed at uncovering and addressing demographic and regional disparities in legal aid access through the **Tele-Law initiative**. Despite the expansion of the initiative across Indian states and districts, there remains a limited understanding of utilization patterns across gender, caste, and geography.  
@@ -88,6 +88,3 @@ The **TeleLaw Disparity Analyzer**:
 - [Pandas Documentation](https://pandas.pydata.org)
 
 ---
-
-## 👨‍💻 Author
-**Bhavik Kaushik**  
