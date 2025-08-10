@@ -57,6 +57,8 @@ The **TeleLaw Disparity Analyzer**:
 4. **Deployment**
    - Deploy trained model as REST API on IBM WatsonX AI.
    - Integrate API into dashboards for real-time disparity analysis.
+     <img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/8150bd63-fff0-4073-bfb2-64ecbc05d477" />
+
 
 ---
 
@@ -64,6 +66,8 @@ The **TeleLaw Disparity Analyzer**:
 - Identified inequities in Tele-Law service utilization across gender and caste categories.
 - Demonstrated the effectiveness of combining AI with public datasets for actionable intelligence.
 - Provided a foundation for data-driven policy improvements.
+  <img width="1140" height="609" alt="image" src="https://github.com/user-attachments/assets/260947b4-3854-447b-a43d-7144fda2d214" />
+
 
 ---
 
@@ -87,5 +91,3 @@ The **TeleLaw Disparity Analyzer**:
 
 ## 👨‍💻 Author
 **Bhavik Kaushik**  
-College: Kalinga Institute of Industrial Technology (KIIT)  
-Degree: B.Tech in Computer Science Engineering (CSE)  
